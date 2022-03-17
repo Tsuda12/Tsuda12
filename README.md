@@ -7,5 +7,8 @@
 
 - 💻Trabalhando: Aprendiz Análise e Desenvolvimento de Sistemas Senai+Bosch Campinas.
 
-### Linguagens que utilizo e estou aprendendo
+- 🎈Hobbies: Estudar programação / Canal no Youtube / Jogar futebol.
+
+### Linguagens que utilizo e estou aprendendo:
+
 
