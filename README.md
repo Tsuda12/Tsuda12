@@ -1,4 +1,4 @@
-## Olá! Meu nome é Felipe Rodrigues Tsuda.
+## Olá! Meu nome é Felipe Rodrigues Tsuda
 ### Bem-vindo(a) ao meu perfil do GitHub!
 
 - 👨‍🏫Cursos: Ensino médio + Técnico (Programação para jogos digitais) no Colégio Técnico Bento Quirino.
