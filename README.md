@@ -7,3 +7,5 @@
 
 - 💻Trabalhando: Aprendiz Análise e Desenvolvimento de Sistemas Senai+Bosch Campinas.
 
+###Linguagens que utilizo e estou aprendendo
+
