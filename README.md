@@ -5,5 +5,5 @@
 
 - 👩‍💻Projetos: TCC do técnico (Criação de um jogo completo, desde as artes até a programação).
 
-- 💻Trabalhando: Aprendiz DS Senai+Bosch Campinas.
+- 💻Trabalhando: Aprendiz Análise e Desenvolvimento de Sistemas Senai+Bosch Campinas.
 
