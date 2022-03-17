@@ -30,7 +30,7 @@
 </div>
 
 
-### Estastísticas GitHub:
+### Estatísticas GitHub:
 
 <div>
 <a href="https://github.com/Tsuda12">
