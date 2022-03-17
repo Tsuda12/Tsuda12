@@ -5,4 +5,4 @@
 
 - 👩‍💻Projetos: TCC do técnico (Criação de um jogo completo, desde as artes até a programação).
 
--<i class="devicon-nodejs-plain"></i> a
+-<i class="devicon-nodejs-plain">aa</i> 
