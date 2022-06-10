@@ -31,7 +31,7 @@
 </div>
 
 
-### Statics GitHub:
+### Statistic GitHub:
 
 <div>
 <a href="https://github.com/Tsuda12">
