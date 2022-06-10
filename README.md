@@ -1,28 +1,28 @@
-## Olá! Meu nome é Felipe Rodrigues Tsuda
-### Bem-vindo(a) ao meu perfil do GitHub:
+## Hi! My name is Felipe Rodrigues Tsuda.
+### Welcome to my GitHub profile:
 
-- 👨‍🏫Cursos: Ensino médio + Técnico (Programação para jogos digitais) no Colégio Técnico Bento Quirino.
+- 👨‍🏫Courses: High School + Technical (Programming for digital games) at Colégio Técnico Bento Quirino.
 
-- 👩‍💻Projetos: TCC do técnico (Criação de um jogo completo, desde as artes até a programação).
+- 👩‍💻Projects: Technician's TCC (Creation of a complete game, from the arts to the programming).
 
-- 💻Trabalhando: Aprendiz Análise e Desenvolvimento de Sistemas Senai+Bosch Campinas.
+- 💻Working: Apprentice Analysis and Development of System Senai + Bosch Campinas.
 
-- 🎈Hobbies: Estudar programação / Canal no Youtube / Jogar futebol.
+- 🎈Hobbies: Studying programming / Youtube channel / Playing football.
 
-### Linguagens que utilizo e estou aprendendo:
+### Languages I use and am learning:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 
-### IDE's que utilizo:
+### IDE's I use:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"  width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
 
-### Conhecimentos extras:
+### Extra knowledge:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40"/>
 
 
-### Redes Sociais:
+### Social Media:
 
 <div>
 <a href="https://www.youtube.com/channel/UCES1cC5aiNI_haaBbW-orbw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
@@ -31,7 +31,7 @@
 </div>
 
 
-### Estatísticas GitHub:
+### Statics GitHub:
 
 <div>
 <a href="https://github.com/Tsuda12">
