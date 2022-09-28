@@ -32,11 +32,7 @@
 ---
 
 <div align="center">
- <a href="https://discordapp.com/users/424187328051937292" target="_blank">https://img.shields.io/badgefelipe-tsuda-b28a0b1a4?style=for-the-badge&logo=linkedin&logoColor=white
+  <a href="https://br.linkedin.com/in/felipe-tsuda-b28a0b1a4?trk=people-guest_people_search-card" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a> 
- <a href="https://discordapp.com/users/424187328051937292" target="_blank">https://img.shields.io/badge/felipe.tsuda01@gmail.com?style=for-the-badge&logo=gmail&logoColor=white
-</a> 
- <a href="https://discordapp.com/users/424187328051937292" target="_blank">https://img.shields.io/badge/Tsuda12?style=for-the-badge&logo=youtube&logoColor=white
-
-</a> 
- </div>
+  <a href="https://www.youtube.com/channel/UCES1cC5aiNI_haaBbW-orbw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> 
+</div>
