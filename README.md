@@ -1,47 +1,42 @@
-## Hi! My name is Felipe Rodrigues Tsuda.
-### Welcome to my GitHub profile:
+<img src="https://komarev.com/ghpvc/?username=Tsuda12&label=Visitors&color=ff6600&style=flat-square" alt="Tsuda12" />
 
-- 👨‍🏫Courses: High School + Technical (Programming for digital games) at Colégio Técnico Bento Quirino.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=500&background=FF000000&center=true&width=435&color=ff6600&lines=Hello+%F0%9F%91%8B%F0%9F%8F%BB;Welcome+to+my+profile+🔥;Enjoy+it+🧑‍💻">
+  </a>
+</p>
 
-- 👩‍💻Projects: Technician's TCC (Creation of a complete game, from the arts to the programming).
+---
 
-- 💻Working: Apprentice Analysis and Development of System Senai + Bosch Campinas.
-
-- 🎈Hobbies: Studying programming / Youtube channel / Playing football.
-
-### Languages I use and am learning:
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-
-### IDE's I use:
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"  width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-
-### Extra knowledge:
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40"/>
-
-
-### Social Media:
-
-<div>
-<a href="https://www.youtube.com/channel/UCES1cC5aiNI_haaBbW-orbw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href="https://www.twitch.tv/tsuda12_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href = "mailto:contato@felipe.tsuda01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Tsuda12&include_all_commits&show_icons=true&theme=codeSTACKr"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsuda12&layout=compact&langs_count=10&theme=codeSTACKr"/>
 </div>
 
+---
 
-### Statistic GitHub:
-
-<div>
-<a href="https://github.com/Tsuda12">
-<img height="140em" src="https://github-readme-stats.vercel.app/api?username=Tsuda12&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsuda12&layout=compact&langs_count=7&theme=codeSTACKr"/>
+<div align="center"><br>
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img  align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" />
 </div>
 
+---
 
+<div align="center">
+ <a href="https://discordapp.com/users/424187328051937292" target="_blank">https://img.shields.io/badgefelipe-tsuda-b28a0b1a4?style=for-the-badge&logo=linkedin&logoColor=white
+</a> 
+ <a href="https://discordapp.com/users/424187328051937292" target="_blank">https://img.shields.io/badge/felipe.tsuda01@gmail.com?style=for-the-badge&logo=gmail&logoColor=white
+</a> 
+ <a href="https://discordapp.com/users/424187328051937292" target="_blank">https://img.shields.io/badge/Tsuda12?style=for-the-badge&logo=youtube&logoColor=white
 
-
-
-
-
-
+</a> 
+ </div>
