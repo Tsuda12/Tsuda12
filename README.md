@@ -1,38 +1,25 @@
-<img src="https://komarev.com/ghpvc/?username=Tsuda12&label=Visitors&color=ff6600&style=flat-square" alt="Tsuda12" />
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=500&background=FF000000&center=true&width=435&color=ff6600&lines=Hello+%F0%9F%91%8B%F0%9F%8F%BB;Welcome+to+my+profile+🔥;Enjoy+it+🧑‍💻">
-  </a>
-</p>
-
----
+<h1 align="center">A Future Backend Developer</h3>
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Tsuda12&include_all_commits&show_icons=true&theme=codeSTACKr"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsuda12&layout=compact&langs_count=10&theme=codeSTACKr"/>
+  <h3> Welcome 👋</h2>
 </div>
 
----
-
-<div align="center"><br>
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img  align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" />
+<div >
+  <p>  <img alt="Coding" align="right" width="400" src="https://media.giphy.com/media/BoqQ67DnKxvOM/giphy.gif"></p>
 </div>
+ 
 
----
-
-<div align="center">
-  <a href="https://br.linkedin.com/in/felipe-tsuda-b28a0b1a4?trk=people-guest_people_search-card" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a> 
-  <a href="https://www.youtube.com/channel/UCES1cC5aiNI_haaBbW-orbw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
-</div>
+ ```javascript
+const profile = {
+  name: 'Felipe R. Tsuda',
+  game: 'The Witcher 3',
+  tech: {
+    frontend: ['React', 'Tailwindcss'],
+    backend: ['Node/Express']
+  },
+  language: {
+    portuguese: true,
+    english: true,
+  }
+}
+```
