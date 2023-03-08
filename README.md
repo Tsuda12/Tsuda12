@@ -15,7 +15,7 @@ const profile = {
   game: 'The Witcher 3',
   tech: {
     frontend: ['React', 'Tailwindcss'],
-    backend: ['Node', 'Express']
+    backend: ['Prisma', 'tRPC']
   },
   language: {
     portuguese: true,
