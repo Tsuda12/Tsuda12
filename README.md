@@ -19,7 +19,7 @@ const profile = {
   },
   language: {
     portuguese: true,
-    english: true,
+    english: true (in development),
   }
 }
 ```
