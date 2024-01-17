@@ -1,4 +1,4 @@
-<h1 align="center">A Future Backend Developer</h3>
+<h1 align="center">Digital solutions techniciann</13>
 
 <div align="center">
   <h3> Welcome 👋</h2>
@@ -13,10 +13,6 @@
 const profile = {
   name: 'Felipe R. Tsuda',
   game: 'The Witcher 3',
-  tech: {
-    frontend: ['React', 'Tailwindcss'],
-    backend: ['Prisma', 'tRPC']
-  },
   language: {
     portuguese: true,
     english: true (in development),
