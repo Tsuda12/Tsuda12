@@ -1,4 +1,4 @@
-<h1 align="center">Digital solutions techniciann</h1>
+<h1 align="center">Digital solutions technician</h1>
 
 <div align="center">
   <h3> Welcome 👋</h3>
