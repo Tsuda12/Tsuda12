@@ -1,4 +1,4 @@
-<h1 align="center">Digital solutions technician</h1>
+<h1 align="center">Digital Solutions Technician</h1>
 
 <div align="center">
   <h3> Welcome 👋</h3>
@@ -10,14 +10,12 @@
  
 
  ```javascript
-const profile = {
+{
   name: 'Felipe R. Tsuda',
-  programming-language: {
-    java: true
-  },
-  language: {
-    portuguese: true,
-    english: true
-  }
+  programmingLanguage: 'Java',
+  language: [
+    'portuguese',
+    'english'
+  ] 
 }
 ```
