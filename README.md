@@ -14,7 +14,7 @@ const profile = {
   name: 'Felipe R. Tsuda',
   programming-language: {
     java: true
-  }
+  },
   language: {
     portuguese: true,
     english: true
